@@ -1,0 +1,30 @@
+{
+  "Period": 50,
+  "dataset": [
+    {
+      "DevIndex": 0,
+      "PollingInterval": 4,
+      "ArrayLogicalDes": "遥测量转遥信操作函数",
+      "ArrayLogical": 6,
+      "CallbackIndex": 0,
+      "data": [
+        {
+          "RtdbNo": 225,
+          "Desc": "设备[0]-断路器分闸原因",
+          "Type": 1,
+          "No": 0,
+          "InputOutPut": 0,
+          "SelectData": "11"
+        },
+        {
+          "RtdbNo": 212,
+          "Desc": "设备[0]-断路器停电",
+          "Type": 0,
+          "No": 1,
+          "InputOutPut": 1,
+          "SelectData": "1"
+        }
+      ]
+    }
+  ]
+}

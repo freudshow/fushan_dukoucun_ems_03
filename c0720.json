@@ -1,0 +1,149 @@
+{
+  "applianceName": "未命名",
+  "TotalYcCount": 1,
+  "TotalYxCount": 13,
+  "TotalYkCount": 0,
+  "TotalDDCount": 0,
+  "dataItem": [
+    {
+      "linkNo": 7,
+      "devNo": 0,
+      "RegNo": 0,
+      "type": 0,
+      "Name": "断路器停电",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 7,
+      "devNo": 0,
+      "RegNo": 1,
+      "type": 0,
+      "Name": "断路器分闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 7,
+      "devNo": 0,
+      "RegNo": 2,
+      "type": 0,
+      "Name": "断路器合相电压逆相序",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 7,
+      "devNo": 0,
+      "RegNo": 3,
+      "type": 0,
+      "Name": "断路器合相电流逆相序",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 7,
+      "devNo": 0,
+      "RegNo": 4,
+      "type": 0,
+      "Name": "断路器合相电压不平衡",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 7,
+      "devNo": 0,
+      "RegNo": 5,
+      "type": 0,
+      "Name": "断路器合相电流不平衡",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 7,
+      "devNo": 0,
+      "RegNo": 6,
+      "type": 0,
+      "Name": "断路器合相辅助电源失电",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 7,
+      "devNo": 0,
+      "RegNo": 7,
+      "type": 0,
+      "Name": "断路器合相掉电",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 7,
+      "devNo": 0,
+      "RegNo": 8,
+      "type": 0,
+      "Name": "断路器合相需量超限",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 7,
+      "devNo": 0,
+      "RegNo": 9,
+      "type": 0,
+      "Name": "断路器合相总功率因数超下限",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 7,
+      "devNo": 0,
+      "RegNo": 10,
+      "type": 0,
+      "Name": "断路器合相电流严重不平衡",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 7,
+      "devNo": 0,
+      "RegNo": 11,
+      "type": 0,
+      "Name": "断路器合相开表盖",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 7,
+      "devNo": 0,
+      "RegNo": 12,
+      "type": 0,
+      "Name": "断路器合相开端钮盖",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 7,
+      "devNo": 0,
+      "RegNo": 13,
+      "type": 1,
+      "Name": "断路器分闸原因",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "applianceName": "未命名",
+  "TotalYcCount": 0,
+  "TotalYxCount": 14,
+  "TotalYkCount": 0,
+  "TotalDDCount": 0,
+  "dataItem": [
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 0,
+      "type": 0,
+      "Name": "预留",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 1,
+      "type": 0,
+      "Name": "预留",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 2,
+      "type": 0,
+      "Name": "预留",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 3,
+      "type": 0,
+      "Name": "预留",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 4,
+      "type": 0,
+      "Name": "预留",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 5,
+      "type": 0,
+      "Name": "预留",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 6,
+      "type": 0,
+      "Name": "预留",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 7,
+      "type": 0,
+      "Name": "预留",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 8,
+      "type": 0,
+      "Name": "预留",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 9,
+      "type": 0,
+      "Name": "预留",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 10,
+      "type": 0,
+      "Name": "预留",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 11,
+      "type": 0,
+      "Name": "预留",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 12,
+      "type": 0,
+      "Name": "预留",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 3,
+      "devNo": 0,
+      "RegNo": 13,
+      "type": 0,
+      "Name": "预留",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    }
+  ]
+}

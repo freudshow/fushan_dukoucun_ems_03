@@ -1,0 +1,426 @@
+{
+  "GetDataBase_Pad": {
+    "PeriodicPollingInterval_ms": 50,
+    "ContinueCheckData": 1,
+    "topic_notify_event": 1,
+    "topic_notify_spont": 1,
+    "topic_set_request_soe": 1,
+    "EnableFrozenMode": 0
+  },
+  "GetDataBase_devListCount": 14,
+  "GetDataBase_devlist": [
+    {
+      "devNo": 0,
+      "linkNo": 4,
+      "port": "1",
+      "addr": "1",
+      "model": "ADC",
+      "desc": "jiao liu cai ji",
+      "datacount": 9,
+      "appname": "appjc",
+      "data": [
+        {
+          "RtdbNo": 161,
+          "Desc": "设备[0]-1#变压器A相日合格率",
+          "DataType": 1,
+          "ModeName": "PhVPassD_phsA",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 162,
+          "Desc": "设备[0]-1#变压器A相日越上限时间",
+          "DataType": 1,
+          "ModeName": "PTOV_lim_OpTmmsD_phsA",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 163,
+          "Desc": "设备[0]-1#变压器A相日越下限时间",
+          "DataType": 1,
+          "ModeName": "PTUV_lim_OpTmmsD_phsA",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 164,
+          "Desc": "设备[0]-1#变压器B相日合格率",
+          "DataType": 1,
+          "ModeName": "PhVPassD_phsB",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 165,
+          "Desc": "设备[0]-1#变压器B相日越上限时间",
+          "DataType": 1,
+          "ModeName": "PTOV_lim_OpTmmsD_phsB",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 166,
+          "Desc": "设备[0]-1#变压器B相日越下限时间",
+          "DataType": 1,
+          "ModeName": "PTUV_lim_OpTmmsD_phsB",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 167,
+          "Desc": "设备[0]-1#变压器C相日合格率",
+          "DataType": 1,
+          "ModeName": "PhVPassD_phsC",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 168,
+          "Desc": "设备[0]-1#变压器C相日越上限时间",
+          "DataType": 1,
+          "ModeName": "PTOV_lim_OpTmmsD_phsC",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 169,
+          "Desc": "设备[0]-1#变压器C相日越下限时间",
+          "DataType": 1,
+          "ModeName": "PTUV_lim_OpTmmsD_phsC",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 1,
+      "linkNo": 4,
+      "port": "RS485-1",
+      "addr": "10203040506",
+      "model": "MultiMeter",
+      "desc": "MultiMeter",
+      "datacount": 2,
+      "appname": "dfe698app",
+      "data": [
+        {
+          "RtdbNo": 170,
+          "Desc": "设备[1]-集中器光伏1_有功功率",
+          "DataType": 1,
+          "ModeName": "PhW_all",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 171,
+          "Desc": "设备[1]-集中器光伏1_发电量",
+          "DataType": 1,
+          "ModeName": "SupWh_total",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 2,
+      "linkNo": 4,
+      "port": "RS485-1",
+      "addr": "10203040506",
+      "model": "MultiMeter",
+      "desc": "MultiMeter",
+      "datacount": 2,
+      "appname": "dfe698app",
+      "data": [
+        {
+          "RtdbNo": 172,
+          "Desc": "设备[2]-集中器光伏2_有功功率",
+          "DataType": 1,
+          "ModeName": "PhW_all",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 173,
+          "Desc": "设备[2]-集中器光伏2_发电量",
+          "DataType": 1,
+          "ModeName": "SupWh_total",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 3,
+      "linkNo": 4,
+      "port": "RS485-1",
+      "addr": "10203040506",
+      "model": "MultiMeter",
+      "desc": "MultiMeter",
+      "datacount": 2,
+      "appname": "dfe698app",
+      "data": [
+        {
+          "RtdbNo": 174,
+          "Desc": "设备[3]-集中器光伏3_有功功率",
+          "DataType": 1,
+          "ModeName": "PhW_all",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 175,
+          "Desc": "设备[3]-集中器光伏3_发电量",
+          "DataType": 1,
+          "ModeName": "SupWh_total",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 4,
+      "linkNo": 4,
+      "port": "RS485-1",
+      "addr": "10203040506",
+      "model": "MultiMeter",
+      "desc": "MultiMeter",
+      "datacount": 2,
+      "appname": "dfe698app",
+      "data": [
+        {
+          "RtdbNo": 176,
+          "Desc": "设备[4]-集中器光伏4_有功功率",
+          "DataType": 1,
+          "ModeName": "PhW_all",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 177,
+          "Desc": "设备[4]-集中器光伏4_发电量",
+          "DataType": 1,
+          "ModeName": "SupWh_total",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 5,
+      "linkNo": 4,
+      "port": "RS485-1",
+      "addr": "10203040506",
+      "model": "MultiMeter",
+      "desc": "MultiMeter",
+      "datacount": 2,
+      "appname": "dfe698app",
+      "data": [
+        {
+          "RtdbNo": 178,
+          "Desc": "设备[5]-集中器光伏5_有功功率",
+          "DataType": 1,
+          "ModeName": "PhW_all",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 179,
+          "Desc": "设备[5]-集中器光伏5_发电量",
+          "DataType": 1,
+          "ModeName": "SupWh_total",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 6,
+      "linkNo": 4,
+      "port": "RS485-1",
+      "addr": "10203040506",
+      "model": "MultiMeter",
+      "desc": "MultiMeter",
+      "datacount": 2,
+      "appname": "dfe698app",
+      "data": [
+        {
+          "RtdbNo": 180,
+          "Desc": "设备[6]-集中器光伏6_有功功率",
+          "DataType": 1,
+          "ModeName": "PhW_all",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 181,
+          "Desc": "设备[6]-集中器光伏6_发电量",
+          "DataType": 1,
+          "ModeName": "SupWh_total",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 7,
+      "linkNo": 4,
+      "port": "RS485-1",
+      "addr": "10203040506",
+      "model": "MultiMeter",
+      "desc": "MultiMeter",
+      "datacount": 2,
+      "appname": "dfe698app",
+      "data": [
+        {
+          "RtdbNo": 182,
+          "Desc": "设备[7]-集中器光伏7_有功功率",
+          "DataType": 1,
+          "ModeName": "PhW_all",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 183,
+          "Desc": "设备[7]-集中器光伏7_发电量",
+          "DataType": 1,
+          "ModeName": "SupWh_total",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 8,
+      "linkNo": 4,
+      "port": "RS485-1",
+      "addr": "10203040506",
+      "model": "MultiMeter",
+      "desc": "MultiMeter",
+      "datacount": 2,
+      "appname": "dfe698app",
+      "data": [
+        {
+          "RtdbNo": 184,
+          "Desc": "设备[8]-集中器光伏8_有功功率",
+          "DataType": 1,
+          "ModeName": "PhW_all",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 185,
+          "Desc": "设备[8]-集中器光伏8_发电量",
+          "DataType": 1,
+          "ModeName": "SupWh_total",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 9,
+      "linkNo": 4,
+      "port": "RS485-1",
+      "addr": "10203040506",
+      "model": "MultiMeter",
+      "desc": "MultiMeter",
+      "datacount": 2,
+      "appname": "dfe698app",
+      "data": [
+        {
+          "RtdbNo": 186,
+          "Desc": "设备[9]-集中器光伏9_有功功率",
+          "DataType": 1,
+          "ModeName": "PhW_all",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 187,
+          "Desc": "设备[9]-集中器光伏9_发电量",
+          "DataType": 1,
+          "ModeName": "SupWh_total",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 10,
+      "linkNo": 4,
+      "port": "RS485-1",
+      "addr": "10203040506",
+      "model": "MultiMeter",
+      "desc": "MultiMeter",
+      "datacount": 2,
+      "appname": "dfe698app",
+      "data": [
+        {
+          "RtdbNo": 188,
+          "Desc": "设备[10]-集中器光伏10_有功功率",
+          "DataType": 1,
+          "ModeName": "PhW_all",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 189,
+          "Desc": "设备[10]-集中器光伏10_发电量",
+          "DataType": 1,
+          "ModeName": "SupWh_total",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 11,
+      "linkNo": 4,
+      "port": "RS485-1",
+      "addr": "10203040506",
+      "model": "MultiMeter",
+      "desc": "MultiMeter",
+      "datacount": 2,
+      "appname": "dfe698app",
+      "data": [
+        {
+          "RtdbNo": 190,
+          "Desc": "设备[11]-集中器光伏11_有功功率",
+          "DataType": 1,
+          "ModeName": "PhW_all",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 191,
+          "Desc": "设备[11]-集中器光伏11_发电量",
+          "DataType": 1,
+          "ModeName": "SupWh_total",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 12,
+      "linkNo": 4,
+      "port": "RS485-1",
+      "addr": "10203040506",
+      "model": "MultiMeter",
+      "desc": "MultiMeter",
+      "datacount": 2,
+      "appname": "dfe698app",
+      "data": [
+        {
+          "RtdbNo": 192,
+          "Desc": "设备[12]-集中器光伏12_有功功率",
+          "DataType": 1,
+          "ModeName": "PhW_all",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 193,
+          "Desc": "设备[12]-集中器光伏12_发电量",
+          "DataType": 1,
+          "ModeName": "SupWh_total",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 13,
+      "linkNo": 4,
+      "port": "RS485-1",
+      "addr": "10203040506",
+      "model": "MultiMeter",
+      "desc": "MultiMeter",
+      "datacount": 2,
+      "appname": "dfe698app",
+      "data": [
+        {
+          "RtdbNo": 194,
+          "Desc": "设备[13]-集中器光伏13_有功功率",
+          "DataType": 1,
+          "ModeName": "PhW_all",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 195,
+          "Desc": "设备[13]-集中器光伏13_发电量",
+          "DataType": 1,
+          "ModeName": "SupWh_total",
+          "DotNo": 0
+        }
+      ]
+    }
+  ]
+}

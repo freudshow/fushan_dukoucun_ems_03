@@ -5,7 +5,7 @@
   "HardType": 0,
   "ParameterTable": 35,
   "RtdbTable": 34,
-  "UseJson": 0,
+  "UseJson": 1,
   "EnaPowOff": 1,
   "GPRSStyle": 0,
   "GprsCardMode": 0,

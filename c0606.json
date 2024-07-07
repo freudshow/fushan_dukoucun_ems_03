@@ -1,0 +1,198 @@
+{
+  "RepeatTimes": 5,
+  "IntervalTimeMs": 1000,
+  "FE_Count": 4,
+  "isBroadcast_Time": 1,
+  "Broadcast_Time": "T00:00:00.000",
+  "DveConfig": [
+    {
+      "DveID": 0,
+      "DveIsValid": "Y",
+      "DveAddr": [
+        "00",
+        "00",
+        "00",
+        "00",
+        "00",
+        "01"
+      ],
+      "DevPort": null,
+      "DevDescription": null,
+      "DveProtocl": 0,
+      "DveModel": "MultiMeter",
+      "Phase": 0
+    }
+  ],
+  "DataConfig": [
+    {
+      "DataName": null,
+      "Desc": "(1)电压数据块",
+      "UseBlockData": 1,
+      "IsMultiRouteData": false,
+      "BlockModelList": [
+        {
+          "DataModelName": "PhV_phsA",
+          "DataDescription": "A相电压"
+        },
+        {
+          "DataModelName": "PhV_phsB",
+          "DataDescription": "B相电压"
+        },
+        {
+          "DataModelName": "PhV_phsC",
+          "DataDescription": "C相电压"
+        }
+      ],
+      "RouteIdx": 1,
+      "RegNo": 0,
+      "Type": 1,
+      "BlockDataCount": 3,
+      "DataModelName": "电压",
+      "DataID": [
+        "02",
+        "01",
+        "FF",
+        "00"
+      ],
+      "CheckEnabled": true,
+      "Format": "XXX.X",
+      "DataLen": 6,
+      "Danwei": "V",
+      "DataRorW": 0,
+      "DveModel": "MultiMeter"
+    },
+    {
+      "DataName": null,
+      "Desc": "(1)电流数据块",
+      "UseBlockData": 1,
+      "IsMultiRouteData": false,
+      "BlockModelList": [
+        {
+          "DataModelName": "A_phsA",
+          "DataDescription": "A相电流"
+        },
+        {
+          "DataModelName": "A_phsB",
+          "DataDescription": "B相电流"
+        },
+        {
+          "DataModelName": "A_phsC",
+          "DataDescription": "C相电流"
+        }
+      ],
+      "RouteIdx": 1,
+      "RegNo": 3,
+      "Type": 1,
+      "BlockDataCount": 3,
+      "DataModelName": "电压",
+      "DataID": [
+        "02",
+        "02",
+        "FF",
+        "00"
+      ],
+      "CheckEnabled": true,
+      "Format": "XXX.XXX",
+      "DataLen": 9,
+      "Danwei": "A",
+      "DataRorW": 0,
+      "DveModel": "MultiMeter"
+    },
+    {
+      "DataName": null,
+      "Desc": "(1)有功功率数据块",
+      "UseBlockData": 1,
+      "IsMultiRouteData": false,
+      "BlockModelList": [],
+      "RouteIdx": 1,
+      "RegNo": 6,
+      "Type": 1,
+      "BlockDataCount": 4,
+      "DataModelName": "电压",
+      "DataID": [
+        "02",
+        "03",
+        "FF",
+        "00"
+      ],
+      "CheckEnabled": true,
+      "Format": "XX.XXXX",
+      "DataLen": 12,
+      "Danwei": "kW",
+      "DataRorW": 0,
+      "DveModel": "MultiMeter"
+    },
+    {
+      "DataName": null,
+      "Desc": "(1)无功功率数据块",
+      "UseBlockData": 1,
+      "IsMultiRouteData": false,
+      "BlockModelList": [],
+      "RouteIdx": 1,
+      "RegNo": 10,
+      "Type": 1,
+      "BlockDataCount": 4,
+      "DataModelName": "电压",
+      "DataID": [
+        "02",
+        "04",
+        "FF",
+        "00"
+      ],
+      "CheckEnabled": true,
+      "Format": "XX.XXXX",
+      "DataLen": 12,
+      "Danwei": "kvar",
+      "DataRorW": 0,
+      "DveModel": "MultiMeter"
+    },
+    {
+      "DataName": null,
+      "Desc": "断路器运行状态字",
+      "UseBlockData": 0,
+      "IsMultiRouteData": false,
+      "BlockModelList": [],
+      "RouteIdx": 0,
+      "RegNo": 14,
+      "Type": 1,
+      "BlockDataCount": 0,
+      "DataModelName": "电压",
+      "DataID": [
+        "04",
+        "00",
+        "05",
+        "01"
+      ],
+      "CheckEnabled": true,
+      "Format": "XXX.X",
+      "DataLen": 6,
+      "Danwei": "次",
+      "DataRorW": 0,
+      "DveModel": "MultiMeter"
+    },
+    {
+      "DataName": null,
+      "Desc": "断路器合相故障状态字",
+      "UseBlockData": 0,
+      "IsMultiRouteData": false,
+      "BlockModelList": [],
+      "RouteIdx": 0,
+      "RegNo": 15,
+      "Type": 1,
+      "BlockDataCount": 0,
+      "DataModelName": "电压",
+      "DataID": [
+        "04",
+        "00",
+        "05",
+        "07"
+      ],
+      "CheckEnabled": false,
+      "Format": "XXX.X",
+      "DataLen": 6,
+      "Danwei": "次",
+      "DataRorW": 0,
+      "DveModel": "MultiMeter"
+    }
+  ]
+}
