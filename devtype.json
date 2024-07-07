@@ -1,0 +1,16 @@
+{
+  "MainDevType": 5,
+  "DevType": 13,
+  "SubDevEnum": 13,
+  "HardType": 0,
+  "ParameterTable": 35,
+  "RtdbTable": 34,
+  "UseJson": 0,
+  "EnaPowOff": 1,
+  "GPRSStyle": 0,
+  "GprsCardMode": 0,
+  "isdevMulitProtect": 1,
+  "WifiModuelStyle": 0,
+  "wifiHotName": null,
+  "WifiPassword": null
+}
