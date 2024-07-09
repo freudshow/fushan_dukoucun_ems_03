@@ -7,7 +7,7 @@
     "topic_set_request_soe": 1,
     "EnableFrozenMode": 0
   },
-  "GetDataBase_devListCount": 14,
+  "GetDataBase_devListCount": 8,
   "GetDataBase_devlist": [
     {
       "devNo": 0,
@@ -88,9 +88,9 @@
       "devNo": 1,
       "linkNo": 4,
       "port": "RS485-1",
-      "addr": "10203040506",
+      "addr": "001045853448",
       "model": "MultiMeter",
-      "desc": "MultiMeter",
+      "desc": "MultiMeter_001045853448",
       "datacount": 2,
       "appname": "dfe698app",
       "data": [
@@ -114,9 +114,9 @@
       "devNo": 2,
       "linkNo": 4,
       "port": "RS485-1",
-      "addr": "10203040506",
+      "addr": "001045861320",
       "model": "MultiMeter",
-      "desc": "MultiMeter",
+      "desc": "MultiMeter_001045861320",
       "datacount": 2,
       "appname": "dfe698app",
       "data": [
@@ -140,9 +140,9 @@
       "devNo": 3,
       "linkNo": 4,
       "port": "RS485-1",
-      "addr": "10203040506",
+      "addr": "001045853479",
       "model": "MultiMeter",
-      "desc": "MultiMeter",
+      "desc": "MultiMeter_001045853479",
       "datacount": 2,
       "appname": "dfe698app",
       "data": [
@@ -166,9 +166,9 @@
       "devNo": 4,
       "linkNo": 4,
       "port": "RS485-1",
-      "addr": "10203040506",
+      "addr": "000646214443",
       "model": "MultiMeter",
-      "desc": "MultiMeter",
+      "desc": "MultiMeter_000646214443",
       "datacount": 2,
       "appname": "dfe698app",
       "data": [
@@ -192,9 +192,9 @@
       "devNo": 5,
       "linkNo": 4,
       "port": "RS485-1",
-      "addr": "10203040506",
+      "addr": "000584939606",
       "model": "MultiMeter",
-      "desc": "MultiMeter",
+      "desc": "MultiMeter_000584939606",
       "datacount": 2,
       "appname": "dfe698app",
       "data": [
@@ -218,9 +218,9 @@
       "devNo": 6,
       "linkNo": 4,
       "port": "RS485-1",
-      "addr": "10203040506",
+      "addr": "000706104899",
       "model": "MultiMeter",
-      "desc": "MultiMeter",
+      "desc": "MultiMeter_000706104899",
       "datacount": 2,
       "appname": "dfe698app",
       "data": [
@@ -241,183 +241,111 @@
       ]
     },
     {
-      "devNo": 7,
-      "linkNo": 4,
-      "port": "RS485-1",
-      "addr": "10203040506",
-      "model": "MultiMeter",
-      "desc": "MultiMeter",
-      "datacount": 2,
-      "appname": "dfe698app",
+      "devNo": 0,
+      "linkNo": 6,
+      "port": "1",
+      "addr": "1",
+      "model": "ADC",
+      "desc": "jiao liu cai ji",
+      "datacount": 14,
+      "appname": "appjc",
       "data": [
         {
-          "RtdbNo": 182,
-          "Desc": "设备[7]-集中器光伏7_有功功率",
+          "RtdbNo": 196,
+          "Desc": "设备[0]-A相电压",
           "DataType": 1,
-          "ModeName": "PhW_all",
+          "ModeName": "PhV_phsA",
           "DotNo": 0
         },
         {
-          "RtdbNo": 183,
-          "Desc": "设备[7]-集中器光伏7_发电量",
+          "RtdbNo": 197,
+          "Desc": "设备[0]-B相电压",
           "DataType": 1,
-          "ModeName": "SupWh_total",
-          "DotNo": 0
-        }
-      ]
-    },
-    {
-      "devNo": 8,
-      "linkNo": 4,
-      "port": "RS485-1",
-      "addr": "10203040506",
-      "model": "MultiMeter",
-      "desc": "MultiMeter",
-      "datacount": 2,
-      "appname": "dfe698app",
-      "data": [
-        {
-          "RtdbNo": 184,
-          "Desc": "设备[8]-集中器光伏8_有功功率",
-          "DataType": 1,
-          "ModeName": "PhW_all",
+          "ModeName": "PhV_phsB",
           "DotNo": 0
         },
         {
-          "RtdbNo": 185,
-          "Desc": "设备[8]-集中器光伏8_发电量",
+          "RtdbNo": 198,
+          "Desc": "设备[0]-C相电压",
           "DataType": 1,
-          "ModeName": "SupWh_total",
-          "DotNo": 0
-        }
-      ]
-    },
-    {
-      "devNo": 9,
-      "linkNo": 4,
-      "port": "RS485-1",
-      "addr": "10203040506",
-      "model": "MultiMeter",
-      "desc": "MultiMeter",
-      "datacount": 2,
-      "appname": "dfe698app",
-      "data": [
-        {
-          "RtdbNo": 186,
-          "Desc": "设备[9]-集中器光伏9_有功功率",
-          "DataType": 1,
-          "ModeName": "PhW_all",
+          "ModeName": "PhV_phsC",
           "DotNo": 0
         },
         {
-          "RtdbNo": 187,
-          "Desc": "设备[9]-集中器光伏9_发电量",
+          "RtdbNo": 199,
+          "Desc": "设备[0]-A相电流",
           "DataType": 1,
-          "ModeName": "SupWh_total",
-          "DotNo": 0
-        }
-      ]
-    },
-    {
-      "devNo": 10,
-      "linkNo": 4,
-      "port": "RS485-1",
-      "addr": "10203040506",
-      "model": "MultiMeter",
-      "desc": "MultiMeter",
-      "datacount": 2,
-      "appname": "dfe698app",
-      "data": [
-        {
-          "RtdbNo": 188,
-          "Desc": "设备[10]-集中器光伏10_有功功率",
-          "DataType": 1,
-          "ModeName": "PhW_all",
+          "ModeName": "A_phsA",
           "DotNo": 0
         },
         {
-          "RtdbNo": 189,
-          "Desc": "设备[10]-集中器光伏10_发电量",
+          "RtdbNo": 200,
+          "Desc": "设备[0]-B相电流",
           "DataType": 1,
-          "ModeName": "SupWh_total",
-          "DotNo": 0
-        }
-      ]
-    },
-    {
-      "devNo": 11,
-      "linkNo": 4,
-      "port": "RS485-1",
-      "addr": "10203040506",
-      "model": "MultiMeter",
-      "desc": "MultiMeter",
-      "datacount": 2,
-      "appname": "dfe698app",
-      "data": [
-        {
-          "RtdbNo": 190,
-          "Desc": "设备[11]-集中器光伏11_有功功率",
-          "DataType": 1,
-          "ModeName": "PhW_all",
+          "ModeName": "A_phsB",
           "DotNo": 0
         },
         {
-          "RtdbNo": 191,
-          "Desc": "设备[11]-集中器光伏11_发电量",
+          "RtdbNo": 201,
+          "Desc": "设备[0]-C相电流",
           "DataType": 1,
-          "ModeName": "SupWh_total",
-          "DotNo": 0
-        }
-      ]
-    },
-    {
-      "devNo": 12,
-      "linkNo": 4,
-      "port": "RS485-1",
-      "addr": "10203040506",
-      "model": "MultiMeter",
-      "desc": "MultiMeter",
-      "datacount": 2,
-      "appname": "dfe698app",
-      "data": [
-        {
-          "RtdbNo": 192,
-          "Desc": "设备[12]-集中器光伏12_有功功率",
-          "DataType": 1,
-          "ModeName": "PhW_all",
+          "ModeName": "A_phsC",
           "DotNo": 0
         },
         {
-          "RtdbNo": 193,
-          "Desc": "设备[12]-集中器光伏12_发电量",
+          "RtdbNo": 202,
+          "Desc": "设备[0]-总有功功率",
           "DataType": 1,
-          "ModeName": "SupWh_total",
-          "DotNo": 0
-        }
-      ]
-    },
-    {
-      "devNo": 13,
-      "linkNo": 4,
-      "port": "RS485-1",
-      "addr": "10203040506",
-      "model": "MultiMeter",
-      "desc": "MultiMeter",
-      "datacount": 2,
-      "appname": "dfe698app",
-      "data": [
-        {
-          "RtdbNo": 194,
-          "Desc": "设备[13]-集中器光伏13_有功功率",
-          "DataType": 1,
-          "ModeName": "PhW_all",
+          "ModeName": "TotW",
           "DotNo": 0
         },
         {
-          "RtdbNo": 195,
-          "Desc": "设备[13]-集中器光伏13_发电量",
+          "RtdbNo": 203,
+          "Desc": "设备[0]-A相有功功率",
           "DataType": 1,
-          "ModeName": "SupWh_total",
+          "ModeName": "PhW_phsA",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 204,
+          "Desc": "设备[0]-B相有功功率",
+          "DataType": 1,
+          "ModeName": "PhW_phsB",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 205,
+          "Desc": "设备[0]-C相有功功率",
+          "DataType": 1,
+          "ModeName": "PhW_phsC",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 206,
+          "Desc": "设备[0]-总无功功率",
+          "DataType": 1,
+          "ModeName": "TotVAr",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 207,
+          "Desc": "设备[0]-A相无功功率",
+          "DataType": 1,
+          "ModeName": "PhVAr_phsA",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 208,
+          "Desc": "设备[0]-B相无功功率",
+          "DataType": 1,
+          "ModeName": "PhVAr_phsB",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 209,
+          "Desc": "设备[0]-C相无功功率",
+          "DataType": 1,
+          "ModeName": "PhVAr_phsC",
           "DotNo": 0
         }
       ]

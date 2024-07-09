@@ -22,20 +22,20 @@
       "data": [
         {
           "RtdbNo": 147,
-          "DataType": 1,
           "Desc": "设备[0]-(1)电压数据块",
+          "DataType": 1,
           "ModeName": "PhV_phsA"
         },
         {
           "RtdbNo": 148,
-          "DataType": 1,
           "Desc": "设备[0]-(1)电压数据块",
+          "DataType": 1,
           "ModeName": "PhV_phsB"
         },
         {
           "RtdbNo": 149,
-          "DataType": 1,
           "Desc": "设备[0]-(1)电压数据块",
+          "DataType": 1,
           "ModeName": "PhV_phsC"
         }
       ]

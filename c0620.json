@@ -1,0 +1,169 @@
+{
+  "applianceName": "未命名",
+  "TotalYcCount": 16,
+  "TotalYxCount": 0,
+  "TotalYkCount": 0,
+  "TotalDDCount": 0,
+  "dataItem": [
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 0,
+      "type": 1,
+      "Name": "A相电压",
+      "ModelName": "PhV_phsA",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 1,
+      "type": 1,
+      "Name": "B相电压",
+      "ModelName": "PhV_phsB",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 2,
+      "type": 1,
+      "Name": "C相电压",
+      "ModelName": "PhV_phsC",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 3,
+      "type": 1,
+      "Name": "A相电流",
+      "ModelName": "A_phsA",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 4,
+      "type": 1,
+      "Name": "B相电流",
+      "ModelName": "A_phsB",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 5,
+      "type": 1,
+      "Name": "C相电流",
+      "ModelName": "A_phsC",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 6,
+      "type": 1,
+      "Name": "总有功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 7,
+      "type": 1,
+      "Name": "A相有功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 8,
+      "type": 1,
+      "Name": "B相有功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 9,
+      "type": 1,
+      "Name": "C相有功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 10,
+      "type": 1,
+      "Name": "总无功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 11,
+      "type": 1,
+      "Name": "A相无功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 12,
+      "type": 1,
+      "Name": "B相无功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 13,
+      "type": 1,
+      "Name": "C相无功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 14,
+      "type": 1,
+      "Name": "断路器运行状态字",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 15,
+      "type": 1,
+      "Name": "断路器合相故障状态字",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    }
+  ]
+}
