@@ -123,7 +123,7 @@
           "linkno": 10,
           "mode": 130,
           "ipaddr": "192.168.1.10",
-          "LocalPort": 2404,
+          "LocalPort": 2604,
           "RemotePort": 1000,
           "SocketChannelNo": 1,
           "NetChannelNo": 3,
