@@ -3,8 +3,8 @@
     "PeriodicPollingInterval_ms": 50,
     "ContinueCheckData": 1,
     "topic_notify_event": 1,
-    "topic_notify_spont": 1,
-    "topic_set_request_soe": 1,
+    "topic_notify_spont": 0,
+    "topic_set_request_soe": 0,
     "EnableFrozenMode": 0
   },
   "GetDataBase_devListCount": 8,

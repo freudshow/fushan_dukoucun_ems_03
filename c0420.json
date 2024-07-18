@@ -102,7 +102,7 @@
       "type": 1,
       "Name": "集中器光伏1_有功功率",
       "ModelName": "PhW_all",
-      "Ratio": 1.0,
+      "Ratio": 0.001,
       "BoardDevAddr": 0
     },
     {
@@ -122,7 +122,7 @@
       "type": 1,
       "Name": "集中器光伏2_有功功率",
       "ModelName": "PhW_all",
-      "Ratio": 1.0,
+      "Ratio": 0.001,
       "BoardDevAddr": 0
     },
     {
@@ -142,7 +142,7 @@
       "type": 1,
       "Name": "集中器光伏3_有功功率",
       "ModelName": "PhW_all",
-      "Ratio": 1.0,
+      "Ratio": 0.001,
       "BoardDevAddr": 0
     },
     {
@@ -162,7 +162,7 @@
       "type": 1,
       "Name": "集中器光伏4_有功功率",
       "ModelName": "PhW_all",
-      "Ratio": 1.0,
+      "Ratio": 0.001,
       "BoardDevAddr": 0
     },
     {
@@ -182,7 +182,7 @@
       "type": 1,
       "Name": "集中器光伏5_有功功率",
       "ModelName": "PhW_all",
-      "Ratio": 1.0,
+      "Ratio": 0.001,
       "BoardDevAddr": 0
     },
     {
@@ -202,7 +202,7 @@
       "type": 1,
       "Name": "集中器光伏6_有功功率",
       "ModelName": "PhW_all",
-      "Ratio": 1.0,
+      "Ratio": 0.001,
       "BoardDevAddr": 0
     },
     {
@@ -222,7 +222,7 @@
       "type": 1,
       "Name": "集中器光伏7_有功功率",
       "ModelName": "PhW_all",
-      "Ratio": 1.0,
+      "Ratio": 0.001,
       "BoardDevAddr": 0
     },
     {
@@ -242,7 +242,7 @@
       "type": 1,
       "Name": "集中器光伏8_有功功率",
       "ModelName": "PhW_all",
-      "Ratio": 1.0,
+      "Ratio": 0.001,
       "BoardDevAddr": 0
     },
     {
@@ -262,7 +262,7 @@
       "type": 1,
       "Name": "集中器光伏9_有功功率",
       "ModelName": "PhW_all",
-      "Ratio": 1.0,
+      "Ratio": 0.001,
       "BoardDevAddr": 0
     },
     {
@@ -282,7 +282,7 @@
       "type": 1,
       "Name": "集中器光伏10_有功功率",
       "ModelName": "PhW_all",
-      "Ratio": 1.0,
+      "Ratio": 0.001,
       "BoardDevAddr": 0
     },
     {
@@ -302,7 +302,7 @@
       "type": 1,
       "Name": "集中器光伏11_有功功率",
       "ModelName": "PhW_all",
-      "Ratio": 1.0,
+      "Ratio": 0.001,
       "BoardDevAddr": 0
     },
     {
@@ -322,7 +322,7 @@
       "type": 1,
       "Name": "集中器光伏12_有功功率",
       "ModelName": "PhW_all",
-      "Ratio": 1.0,
+      "Ratio": 0.001,
       "BoardDevAddr": 0
     },
     {
@@ -342,7 +342,7 @@
       "type": 1,
       "Name": "集中器光伏13_有功功率",
       "ModelName": "PhW_all",
-      "Ratio": 1.0,
+      "Ratio": 0.001,
       "BoardDevAddr": 0
     },
     {
