@@ -42,7 +42,7 @@
       "type": 1,
       "Name": "A相电流",
       "ModelName": "A_phsA",
-      "Ratio": 1.0,
+      "Ratio": 120.0,
       "BoardDevAddr": 0
     },
     {
@@ -52,7 +52,7 @@
       "type": 1,
       "Name": "B相电流",
       "ModelName": "A_phsB",
-      "Ratio": 1.0,
+      "Ratio": 120.0,
       "BoardDevAddr": 0
     },
     {
@@ -62,7 +62,7 @@
       "type": 1,
       "Name": "C相电流",
       "ModelName": "A_phsC",
-      "Ratio": 1.0,
+      "Ratio": 120.0,
       "BoardDevAddr": 0
     },
     {
@@ -72,7 +72,7 @@
       "type": 1,
       "Name": "总有功功率",
       "ModelName": null,
-      "Ratio": 1.0,
+      "Ratio": 120.0,
       "BoardDevAddr": 0
     },
     {
@@ -82,7 +82,7 @@
       "type": 1,
       "Name": "A相有功功率",
       "ModelName": null,
-      "Ratio": 1.0,
+      "Ratio": 120.0,
       "BoardDevAddr": 0
     },
     {
@@ -92,7 +92,7 @@
       "type": 1,
       "Name": "B相有功功率",
       "ModelName": null,
-      "Ratio": 1.0,
+      "Ratio": 120.0,
       "BoardDevAddr": 0
     },
     {
@@ -102,7 +102,7 @@
       "type": 1,
       "Name": "C相有功功率",
       "ModelName": null,
-      "Ratio": 1.0,
+      "Ratio": 120.0,
       "BoardDevAddr": 0
     },
     {
@@ -112,7 +112,7 @@
       "type": 1,
       "Name": "总无功功率",
       "ModelName": null,
-      "Ratio": 1.0,
+      "Ratio": 120.0,
       "BoardDevAddr": 0
     },
     {
@@ -122,7 +122,7 @@
       "type": 1,
       "Name": "A相无功功率",
       "ModelName": null,
-      "Ratio": 1.0,
+      "Ratio": 120.0,
       "BoardDevAddr": 0
     },
     {
@@ -132,7 +132,7 @@
       "type": 1,
       "Name": "B相无功功率",
       "ModelName": null,
-      "Ratio": 1.0,
+      "Ratio": 120.0,
       "BoardDevAddr": 0
     },
     {
@@ -142,7 +142,7 @@
       "type": 1,
       "Name": "C相无功功率",
       "ModelName": null,
-      "Ratio": 1.0,
+      "Ratio": 120.0,
       "BoardDevAddr": 0
     },
     {
@@ -152,7 +152,7 @@
       "type": 1,
       "Name": "断路器运行状态字",
       "ModelName": null,
-      "Ratio": 1.0,
+      "Ratio": 120.0,
       "BoardDevAddr": 0
     },
     {
@@ -162,7 +162,7 @@
       "type": 1,
       "Name": "断路器合相故障状态字",
       "ModelName": null,
-      "Ratio": 1.0,
+      "Ratio": 120.0,
       "BoardDevAddr": 0
     }
   ]
