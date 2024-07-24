@@ -141,11 +141,11 @@
         },
         {
           "linkno": 12,
-          "mode": 0,
+          "mode": 130,
           "ipaddr": "192.168.1.10",
-          "LocalPort": 0,
+          "LocalPort": 2804,
           "RemotePort": 1000,
-          "SocketChannelNo": 8,
+          "SocketChannelNo": 2,
           "NetChannelNo": 3,
           "TcpServerSet": null
         },

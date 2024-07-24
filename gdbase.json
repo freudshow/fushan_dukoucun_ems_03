@@ -7,7 +7,7 @@
     "topic_set_request_soe": 0,
     "EnableFrozenMode": 0
   },
-  "GetDataBase_devListCount": 8,
+  "GetDataBase_devListCount": 14,
   "GetDataBase_devlist": [
     {
       "devNo": 0,
@@ -346,6 +346,120 @@
           "Desc": "设备[0]-C相无功功率",
           "DataType": 1,
           "ModeName": "PhVAr_phsC",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 0,
+      "linkNo": 11,
+      "port": "RS485-1",
+      "addr": "001045853448",
+      "model": "MultiMeter",
+      "desc": "MultiMeter_001045853448",
+      "datacount": 1,
+      "appname": "dfe698app",
+      "data": [
+        {
+          "RtdbNo": 226,
+          "Desc": "设备[0]-王传军A相电压",
+          "DataType": 1,
+          "ModeName": "LTU",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 1,
+      "linkNo": 11,
+      "port": "RS485-1",
+      "addr": "001045861320",
+      "model": "MultiMeter",
+      "desc": "MultiMeter_001045861320",
+      "datacount": 1,
+      "appname": "dfe698app",
+      "data": [
+        {
+          "RtdbNo": 227,
+          "Desc": "设备[1]-王传军A相电压",
+          "DataType": 1,
+          "ModeName": "LTU",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 2,
+      "linkNo": 11,
+      "port": "RS485-1",
+      "addr": "001045853479",
+      "model": "MultiMeter",
+      "desc": "MultiMeter_001045853479",
+      "datacount": 1,
+      "appname": "dfe698app",
+      "data": [
+        {
+          "RtdbNo": 228,
+          "Desc": "设备[2]-王传军A相电压",
+          "DataType": 1,
+          "ModeName": "LTU",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 3,
+      "linkNo": 11,
+      "port": "RS485-1",
+      "addr": "000646214443",
+      "model": "MultiMeter",
+      "desc": "MultiMeter_000646214443",
+      "datacount": 1,
+      "appname": "dfe698app",
+      "data": [
+        {
+          "RtdbNo": 229,
+          "Desc": "设备[3]-潘清华A相电压",
+          "DataType": 1,
+          "ModeName": "LTU",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 4,
+      "linkNo": 11,
+      "port": "RS485-1",
+      "addr": "000584939606",
+      "model": "MultiMeter",
+      "desc": "MultiMeter_000584939606",
+      "datacount": 1,
+      "appname": "dfe698app",
+      "data": [
+        {
+          "RtdbNo": 230,
+          "Desc": "设备[4]-潘春荣A相电压",
+          "DataType": 1,
+          "ModeName": "LTU",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 5,
+      "linkNo": 11,
+      "port": "RS485-1",
+      "addr": "000706104899",
+      "model": "MultiMeter",
+      "desc": "MultiMeter_000706104899",
+      "datacount": 1,
+      "appname": "dfe698app",
+      "data": [
+        {
+          "RtdbNo": 231,
+          "Desc": "设备[5]-潘士云A相电压",
+          "DataType": 1,
+          "ModeName": "LTU",
           "DotNo": 0
         }
       ]

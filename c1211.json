@@ -1,0 +1,112 @@
+{
+  "Pad": {
+    "TotalYcCount": 6,
+    "TotalYxCount": 0,
+    "TotalYkCount": 0,
+    "TotalDDCount": 0,
+    "TotalParameterCount": 0,
+    "YcRatioEnable": 1,
+    "RecordingYkOpera": 0,
+    "LinkAddr": 1,
+    "SingleORDoubleInit": 0,
+    "LinkAddrLen": 2,
+    "VsqLen": 1,
+    "coTlen": 2,
+    "AsduLen": 2,
+    "InfoAddrLen": 3,
+    "YxType": 1,
+    "YcType": 13,
+    "DdType": 206,
+    "YkType": 45,
+    "T0TimeOut": 30,
+    "T1TimeOut": 30,
+    "T2TimeOut": 12,
+    "T3TimeOut": 20,
+    "k": 12,
+    "w": 8,
+    "baseyear": 2000,
+    "alldatainterval": 0,
+    "allddinterval": 0,
+    "setclockinterval": 0,
+    "testlinkinterval": 0,
+    "encrypt": 0,
+    "sendcos": 1,
+    "BackScan": 0,
+    "ThreadAfterSndDelayms": 100,
+    "ThreadAfterRcvDelayms": 100
+  },
+  "ParaInstruction": "v0.1运用园区",
+  "Para": [
+    {
+      "SN": 0,
+      "Running_info": [],
+      "Actionfixed_info": []
+    }
+  ],
+  "FaultEventSubmission": [],
+  "YCDataItem": [
+    {
+      "No": 0,
+      "Name": "设备[0]-王传军A相电压",
+      "Unit": null,
+      "Addr": 16385,
+      "Xishu": 1.0,
+      "RealDevNo": 226,
+      "type": 1,
+      "Idx": 0
+    },
+    {
+      "No": 1,
+      "Name": "设备[1]-王传军A相电压",
+      "Unit": null,
+      "Addr": 16386,
+      "Xishu": 1.0,
+      "RealDevNo": 227,
+      "type": 1,
+      "Idx": 1
+    },
+    {
+      "No": 2,
+      "Name": "设备[2]-王传军A相电压",
+      "Unit": null,
+      "Addr": 16387,
+      "Xishu": 1.0,
+      "RealDevNo": 228,
+      "type": 1,
+      "Idx": 2
+    },
+    {
+      "No": 3,
+      "Name": "设备[3]-潘清华A相电压",
+      "Unit": null,
+      "Addr": 16388,
+      "Xishu": 1.0,
+      "RealDevNo": 229,
+      "type": 1,
+      "Idx": 3
+    },
+    {
+      "No": 4,
+      "Name": "设备[4]-潘春荣A相电压",
+      "Unit": null,
+      "Addr": 16389,
+      "Xishu": 1.0,
+      "RealDevNo": 230,
+      "type": 1,
+      "Idx": 4
+    },
+    {
+      "No": 5,
+      "Name": "设备[5]-潘士云A相电压",
+      "Unit": null,
+      "Addr": 16390,
+      "Xishu": 1.0,
+      "RealDevNo": 231,
+      "type": 1,
+      "Idx": 5
+    }
+  ],
+  "YXDataItem": [],
+  "YKDataItem": [],
+  "DDDataItem": []
+}

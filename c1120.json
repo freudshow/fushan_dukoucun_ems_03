@@ -1,0 +1,69 @@
+{
+  "applianceName": "未命名",
+  "TotalYcCount": 0,
+  "TotalYxCount": 1,
+  "TotalYkCount": 0,
+  "TotalDDCount": 0,
+  "dataItem": [
+    {
+        "linkNo": 11,
+        "devNo": 0,
+        "RegNo": 0,
+        "type": 1,
+        "Name": "王传军A相电压",
+        "ModelName": "PhV_phsA",
+        "Ratio": 1,
+        "BoardDevAddr": 0
+    },
+    {
+        "linkNo": 11,
+        "devNo": 1,
+        "RegNo": 0,
+        "type": 1,
+        "Name": "王传军A相电压",
+        "ModelName": "PhV_phsA",
+        "Ratio": 1,
+        "BoardDevAddr": 0
+    },
+    {
+        "linkNo": 11,
+        "devNo": 2,
+        "RegNo": 0,
+        "type": 1,
+        "Name": "王传军A相电压",
+        "ModelName": "PhV_phsA",
+        "Ratio": 1,
+        "BoardDevAddr": 0
+    },
+    {
+        "linkNo": 11,
+        "devNo": 3,
+        "RegNo": 0,
+        "type": 1,
+        "Name": "潘清华A相电压",
+        "ModelName": "PhV_phsA",
+        "Ratio": 1,
+        "BoardDevAddr": 0
+    },
+    {
+        "linkNo": 11,
+        "devNo": 4,
+        "RegNo": 0,
+        "type": 1,
+        "Name": "潘春荣A相电压",
+        "ModelName": "PhV_phsA",
+        "Ratio": 1,
+        "BoardDevAddr": 0
+    },
+    {
+        "linkNo": 11,
+        "devNo": 5,
+        "RegNo": 0,
+        "type": 1,
+        "Name": "潘士云A相电压",
+        "ModelName": "PhV_phsA",
+        "Ratio": 1,
+        "BoardDevAddr": 0
+    }
+]
+}
