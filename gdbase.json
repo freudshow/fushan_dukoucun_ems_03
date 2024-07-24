@@ -364,7 +364,7 @@
           "RtdbNo": 226,
           "Desc": "设备[0]-王传军A相电压",
           "DataType": 1,
-          "ModeName": "LTU",
+          "ModeName": "PhV_phsA",
           "DotNo": 0
         }
       ]
@@ -383,7 +383,7 @@
           "RtdbNo": 227,
           "Desc": "设备[1]-王传军A相电压",
           "DataType": 1,
-          "ModeName": "LTU",
+          "ModeName": "PhV_phsA",
           "DotNo": 0
         }
       ]
@@ -402,7 +402,7 @@
           "RtdbNo": 228,
           "Desc": "设备[2]-王传军A相电压",
           "DataType": 1,
-          "ModeName": "LTU",
+          "ModeName": "PhV_phsA",
           "DotNo": 0
         }
       ]
@@ -421,7 +421,7 @@
           "RtdbNo": 229,
           "Desc": "设备[3]-潘清华A相电压",
           "DataType": 1,
-          "ModeName": "LTU",
+          "ModeName": "PhV_phsA",
           "DotNo": 0
         }
       ]
@@ -440,7 +440,7 @@
           "RtdbNo": 230,
           "Desc": "设备[4]-潘春荣A相电压",
           "DataType": 1,
-          "ModeName": "LTU",
+          "ModeName": "PhV_phsA",
           "DotNo": 0
         }
       ]
@@ -459,7 +459,7 @@
           "RtdbNo": 231,
           "Desc": "设备[5]-潘士云A相电压",
           "DataType": 1,
-          "ModeName": "LTU",
+          "ModeName": "PhV_phsA",
           "DotNo": 0
         }
       ]
