@@ -31,7 +31,7 @@
     "testlinkinterval": 0,
     "encrypt": 0,
     "sendcos": 1,
-    "BackScan": 0,
+    "BackScan": 1,
     "ThreadAfterSndDelayms": 100,
     "ThreadAfterRcvDelayms": 100
   },
